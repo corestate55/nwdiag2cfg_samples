@@ -60,7 +60,8 @@ nwdiag2cfg/bin/nwdiag2cfg -f 4_nwdiag2cfg_output/diagrams.drawio.svg \
 `diagrams.drawio.svg` は、書籍『ネットワーク図の描き方入門』のサポートページ
 （[ネットワーク図の描き方入門 | 日経BOOKプラス](https://bookplus.nikkei.com/atcl/catalog/25/11/21/02321/)）にある
 「ネットワーク構成図、アイコンデータのダウンロード」からダウンロードできるデータです。
+このリポジトリの各ディレクトリにある `diagrams.drawio.svg` は MIT License の対象外です。利用条件は配布元の定めに従ってください。
 
 ## ライセンス
 
-[LICENSE](LICENSE)（MIT License）
+[LICENSE](LICENSE)（MIT License）。ただし `diagrams.drawio.svg` は除きます（「構成図データについて」を参照）。
